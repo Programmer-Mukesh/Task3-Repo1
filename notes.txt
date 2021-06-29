@@ -1,0 +1,11 @@
+1. create two forms
+
+2. on click of Yes, it should show one form
+   on click of No, it show show one more form
+
+3. write validations for these forms, include your validations on the top of the form.
+                                       - along with the fields
+
+
+4. you can use color picker to take the correct colors, and you crop necessary images from the mockups.
+   user bg-image as background-image for the div.
