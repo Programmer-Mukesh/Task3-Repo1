@@ -4,7 +4,7 @@ let yes= document.getElementsByClassName("yes")[0];
 let hideRole= document.getElementsByClassName("toggle")[0];
 
 no.addEventListener('click', () => {
-    form.style.display = "none";
+    form.style.display ="none";
     hideRole.style.display="block";
 })
 
